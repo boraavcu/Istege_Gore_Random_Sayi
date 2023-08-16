@@ -1,0 +1,36 @@
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.exe
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.deps.json
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.runtimeconfig.json
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.dll
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.pdb
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.csproj.AssemblyReference.cache
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.Form1.resources
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.csproj.GenerateResource.cache
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.AssemblyInfoInputs.cache
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.AssemblyInfo.cs
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.csproj.CoreCompileInputs.cache
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.dll
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\refint\Random_Sayi.dll
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.pdb
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.genruntimeconfig.cache
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\ref\Random_Sayi.dll
+C:\Users\boraa\source\repos\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.Properties.Resources.resources
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.exe
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.deps.json
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.runtimeconfig.json
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.dll
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\bin\Debug\net6.0-windows\Random_Sayi.pdb
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.csproj.AssemblyReference.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.Form1.resources
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.Properties.Resources.resources
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.csproj.GenerateResource.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.AssemblyInfoInputs.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.AssemblyInfo.cs
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.csproj.CoreCompileInputs.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.dll
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\refint\Random_Sayi.dll
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.pdb
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\Random_Sayi.genruntimeconfig.cache
+C:\Users\boraa\OneDrive\Masaüstü\BORA\Deneme Çalışmaları\Random_Sayi\Random_Sayi\obj\Debug\net6.0-windows\ref\Random_Sayi.dll
